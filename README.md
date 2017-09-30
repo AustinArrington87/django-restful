@@ -1,5 +1,5 @@
 # django-restful
-Startuing RESTful API w Django
+Starting RESTful API w Django
 # run the following from your terminal / shell
 
 #create project directory 
