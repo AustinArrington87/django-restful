@@ -3,6 +3,7 @@ Starting RESTful API w Django
 # run the following from your terminal / shell
 
 #create project directory 
+
 mkdir tutorial 
 cd tutorial 
 
